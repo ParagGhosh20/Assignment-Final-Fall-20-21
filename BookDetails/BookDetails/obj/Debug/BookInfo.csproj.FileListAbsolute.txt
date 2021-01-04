@@ -1,0 +1,11 @@
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\bin\Debug\BookFinder.exe.config
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\bin\Debug\BookFinder.exe
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\bin\Debug\BookFinder.pdb
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookInfo.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookInfo.Views.AllForms.resources
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookInfo.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookInfo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookFinder.exe
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookFinder.pdb
+C:\Users\Asus\Downloads\Compressed\FinalTermAssignment-main\BookFinder\BookFinder\obj\Debug\BookInfo.Views.BookDetails.resources
